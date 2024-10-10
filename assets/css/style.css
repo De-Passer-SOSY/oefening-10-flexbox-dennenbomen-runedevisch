@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300..800;1,300..800&display=swap');
+.treeContainer{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    gap: 20px;
+    article: width 200px;
+    box-shadow: black;
+    text-align: center;
+    padding: 5px;
+}
+img{
+    width: 200px;
+    height: 200px
+}
